@@ -1,0 +1,22 @@
+body {
+  /* background: white; */
+  /* background-color: aqua; */
+  background-image: linear-gradient(white,rgb(130, 179, 252) );
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: "Raleway", sans-serif; */
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  /* margin: 0 0 20px 0; */
+  /* padding: 0; */
+}
+
+
+rect {
+  fill: steelblue;
+  /* fill:rgba(0, 0, 0, 0.247) */
+}
