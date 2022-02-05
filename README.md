@@ -1,6 +1,6 @@
 # InformationVisualisation
 Data 
-country           population
+country           population<br>
 China             1415046
 India             1354052
 United States     326767
